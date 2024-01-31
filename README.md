@@ -4,20 +4,23 @@ OptiPro Doctor es una herramienta avanzada diseñada para la optimización, limp
 
 ## Funciones Principales
 
-- **Limpieza Profunda:** Elimina archivos innecesarios y optimiza el espacio en disco.
-- **Desinstalación Expert:** Desinstala programas de forma completa y eficiente.
-- **Optimización del Sistema:** Mejora el rendimiento general de tu PC.
-- **[Función 1]**
-- **[Función 2]**
-- ...
+- **Categoria 1: Limpieza de archivos**
+  Esta categoria añadira funciones de limpieza de temporales, actualizaciones acumuladas antiguas y opciones para vaciar papelera de reciclaje/descargas
+- **Categoria 2: Desinstalación profunda**
+  Podra elegir entre la lista de sus programas cual desea desinstalar y el programa se encargara de borrar las carpetas residuales del programa, incluida la del AppData
+- **Categoria 3: Comprobacion de estabilidad del SO**
+  El programa se encargara de comprobar la estabilidad de la imagen del SO y aplicar correcciones para solucinar los problemas encontrados
+- **Categoria 4: Obtimizacion de SO**
+  Podra elegir opciones de apariencia para mejorar rendimiento, ajustes de energia, limpieza de updates y mejora de arranque.
+- **Mas categorias se añadiran con el paso del tiempo**
 
 ## Notas de Versiones
 
+Se dividiran en 3, ya que se desarrollaran 3 apliaciones para cada SO (Windows, Mac y Linux/Debian). El programa se basara primero en windows y ya se crearan el resto de sus veriones a futuro
+
 ### Versión 0.0.2
 
-- [Nota 1]
-- [Nota 2]
-- ...
+Se añadiran en la primera subida del programa
 
 
 ## Fotos
